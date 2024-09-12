@@ -1,0 +1,83 @@
+body {
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 1400px;
+    display: flex;
+    background-color: white;
+}
+
+.esquerda {
+    background-color: #d9d9d9;
+    padding: 40px 20px;
+    border-top: solid 20px;
+    border-bottom: solid 20px;
+}
+
+.direita {
+    padding: 140px 60px;
+    border-top: solid 20px;
+    border-bottom: solid 20px;
+}
+
+img {
+    width: 350px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+.nome {
+    font-family: "Ruda", sans-serif;
+    font-size: 36px;
+}
+
+h2 {
+    font-family: "Ruda", sans-serif;
+    margin-bottom: 10px;
+    font-weight: 900;
+}
+
+p {
+    font-family: "Nunito", sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.sobremim{
+    margin-bottom: 50px;
+}
+
+li{
+    font-size: 20px;
+}
+
+.contato ul{
+    font-family: 'Nunito', sans-serif;
+    list-style-type: none;
+}
+
+.contato,
+.skills,
+.Linguagem {
+    margin-bottom: 40px;
+}
+
+.skills ul,
+.Linguagem ul {
+    font-family: 'Nunito', sans-serif;
+    list-style-type: none;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+.experiencia1,
+.experiencia2,
+.experiencia3 {
+    margin-bottom: 40px;
+}
